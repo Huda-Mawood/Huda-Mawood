@@ -1,8 +1,6 @@
 👋 Hi, I’m @Huda-Mawood!
 
-👀 I’m interested in Software Engineering, especially building scalable and efficient applications.
-
-🌱 I’m currently enhancing my skills in full-stack development and exploring the latest technologies in AI and cloud computing.
+👀 I’m interested in Software Engineering
 
 💞️ I’m looking to collaborate on exciting projects where I can contribute my expertise or learn something new.
 
