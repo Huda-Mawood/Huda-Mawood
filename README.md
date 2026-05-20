@@ -1,22 +1,48 @@
-👋 Hi, I’m @Huda-Mawood!
+# 👋 Hi, I’m @Huda-Mawood
 
-💻 I’m a **Software Engineer** with a strong passion for **Artificial Intelligence, Machine Learning, and Data Science**.
+💻 **AI Engineer | LLMs | Agentic AI | RAG Systems | Machine Learning**
 
-🚀 I enjoy building efficient, scalable, and elegant software solutions to solve real-world problems — from writing clean code to analyzing data-driven insights.
+I’m a Computer Science graduate passionate about building intelligent, scalable, and real-world AI systems. My main interests focus on **LLMs, Agentic AI, RAG pipelines, NLP, and Multimodal AI applications**.
 
-👀 I’m always eager to explore innovative technologies and collaborate on exciting projects where I can grow and contribute meaningfully.
+🚀 I enjoy designing end-to-end AI solutions — from data preprocessing and model development to deployment and automation using modern AI frameworks and tools.
 
-💞️ Let’s connect if you’re working on something in **AI, ML, data analysis, web/app development**, or anything impactful — I’d love to contribute or learn!
+## 🔍 What I Work On
 
-📫 Reach me at: **hudamawood@gmial.com**  
-🔗 [LinkedIn Profile](https://www.linkedin.com/in/huda-mawood-17a644270)
+* 🤖 LLM-powered applications
+* 🧠 Agentic AI workflows using LangChain, LangGraph & CrewAI
+* 📚 Retrieval-Augmented Generation (RAG)
+* 🔎 Semantic Search & Vector Databases
+* ⚡ FastAPI-based AI backends
+* 🐳 Dockerized AI systems & CI/CD pipelines
+* 👁️ Computer Vision & Multimodal AI
 
-😄 Pronouns: She/Her
+## 🛠️ Tech Stack
 
-⚡ Fun fact: I love turning complex problems into simple, elegant solutions with code!  
-Whether it’s debugging an algorithm or designing a user interface — I’m always up for a challenge. 💡
+* **Languages:** Python, C/C++, SQL
+* **AI/ML:** PyTorch, TensorFlow, Scikit-learn
+* **Frameworks:** LangChain, LangGraph, CrewAI, FastAPI
+* **Databases:** MongoDB, ChromaDB, Qdrant
+* **Tools:** Docker, GitHub Actions, Git
 
-<!---
-Huda-Mawood/Huda-Mawood is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
-You can click the Preview link to take a look at your changes.
---->
+## 🌟 Featured Projects
+
+* 🔹 Autonomous DevOps Agent SDK
+* 🔹 Semantic Knowledge Engine
+* 🔹 Smart Procurement Agent
+* 🔹 R7alh – Smart Tourism Platform
+* 🔹 Emotion-Based Music Recommender System
+
+## 🏆 Highlights
+
+* 👩‍🏫 AI Instructor & Problem Solving Mentor
+* 🧩 Solved 1.5K+ competitive programming problems
+* 📖 Passionate about continuous learning and AI innovation
+
+📫 **Reach me at:**
+Email: [hudamawood@gmail.com](mailto:hudamawood@gmail.com)
+
+🔗 **LinkedIn:**
+[Huda Mawood Kamal LinkedIn](https://www.linkedin.com/in/huda-mawood-17a644270?utm_source=chatgpt.com)
+
+⚡ **Fun Fact:**
+I love turning complex AI ideas into practical and production-ready systems.
