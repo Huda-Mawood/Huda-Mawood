@@ -21,7 +21,7 @@ I’m a Computer Science graduate passionate about building intelligent, scalabl
 * **Languages:** Python, C/C++, SQL
 * **AI/ML:** PyTorch, TensorFlow, Scikit-learn
 * **Frameworks:** LangChain, LangGraph, CrewAI, FastAPI
-* **Databases:** MongoDB, ChromaDB, Qdrant
+* **Databases:** MongoDB,Postgres ChromaDB, Qdrant
 * **Tools:** Docker, GitHub Actions, Git
 
 ## 🌟 Featured Projects
